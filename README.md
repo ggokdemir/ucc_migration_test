@@ -1,4 +1,4 @@
-## NOTE:   This code is no longer supported.  While this may still work for many TA's, it's no longer a sure thing so YMMV.
+https://docs.google.com/document/d/1z94bGgR2mHTxUzUYg2ysa3Nr33i3Bn2nMgphs3almnw/edit?usp=sharing
 
 # ucc Migration Test
 
